@@ -1,0 +1,2 @@
+1. Place and compile KSVD & OMP toolbox codes at the KSVD_OMP_Tools directory
+%     http://www.cs.technion.ac.il/~ronrubin/software.html
