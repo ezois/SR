@@ -12,7 +12,7 @@
 % Place the skilled forgery signatures of a writer at .\someimages\skilled_forgs directory
 % Place the random forgery signatures of a writer at .\someimages\random_forgs directory
 
-%% Unzip file someimages.rar into someinmages directory. 
+%% Unzip file someimages.rar into the someimages directory. 
 
 %% 4. Run the main.m file as: 
 
