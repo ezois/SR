@@ -1,7 +1,7 @@
 %% Demo code which describes the algorithm proposed in: 
 % % A comprehensive study of sparse representation techniques for offline signature verification
 % % E.N Zois, D Tsourounis, I. Theodorakopoulos, A. Kesidis & G. Economou
-% % - arXiv preprint arXiv:1807.05039, 2018
+% % - Accepted for publication in: IEEE Transactions on Biometrics, Behavior, and Identity Science.
 
 %% Steps
 %% 1. Place and compile KSVD & OMP toolbox codes at the KSVD_OMP_Tools directory
@@ -12,7 +12,9 @@
 % Place the skilled forgery signatures of a writer at .\someimages\skilled_forgs directory
 % Place the random forgery signatures of a writer at .\someimages\random_forgs directory
 
-%% 3. Run the main.m file as: 
+%% Unzip file someimages.rar into someinmages directory. 
+
+%% 4. Run the main.m file as: 
 
 % [f1,f2,f3,f4,f5,qRM1,qRM2,qRM3,qRM4,qRM5,qSF1,qSF2,qSF3,qSF4,qSF5,qRF1,qRF2,qRF3,qRF4,qRF5]=main();
 
