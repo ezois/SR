@@ -1,4 +1,4 @@
-%% Demo code which describes the algorithm proposed in: 
+%% Demo code which describes the algorithm proposed in:
 % % A comprehensive study of sparse representation techniques for offline signature verification
 % % E.N Zois, D Tsourounis, I. Theodorakopoulos, A. Kesidis & G. Economou
 % % - Accepted for publication in: IEEE Transactions on Biometrics, Behavior, and Identity Science.
